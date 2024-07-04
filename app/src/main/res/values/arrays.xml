@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="branch_array">
+        <item>SELECT BRANCH/SITE</item>
+        <item>HEAD OFFICE</item>
+        <item>SITE</item>
+        <item>OLAPALAYUM</item>
+        <item>KANCHIPURAM</item>
+        <item>TUTICORIN</item>
+        <item>HYDERABAD</item>
+        <item>CROWN BLUE METAL</item>
+        <!-- Add more city items as needed -->
+    </string-array>
+
+    <string-array name="site_array">
+        <item>SITE</item>
+        <item>SITE2</item>
+        <!-- Add more state items as needed -->
+    </string-array>
+</resources>
